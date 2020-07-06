@@ -23,3 +23,5 @@ click(): This gets your mouse pointer to click in the position the cursor points
 press('enter'): To press these keys, call the press() function and pass it a string from the pyautogui.KEYBOARD_KEYS<br/><br/>
 
 typewrite("message", "delay"): This method is used to write the <message> to the screen, in the interval of <delay> time<br/><br/>
+
+Learn more about pyautogui from https://pyautogui.readthedocs.io/en/latest/quickstart.html
